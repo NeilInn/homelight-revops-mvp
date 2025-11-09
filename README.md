@@ -1,2 +1,2 @@
 # homelight-revops-mvp
-This mock Referral to Revenue Scorecard showcases our referral conversation rate and outstanding revenue. 
+Mock revenue operations dashboard with risk scoring, email automation, and Gmail integration. 
