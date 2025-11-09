@@ -18,7 +18,7 @@ A full-stack revenue operations dashboard that identifies at-risk referral commi
 - **Data pipeline** (Python) that transforms a raw referrals CSV into clean metrics/features for the dashboard.
 - **Sample data** so you can demo immediately.
 
-> This MVP is intentionally lightweight so it can be demoed in a 2‑minute video and extended later into Retool, Zapier, or your internal stack.
+> This MVP is intentionally lightweight so it can be demoed in a 2‑minute video.
 
 ## Quickstart
 ```bash
