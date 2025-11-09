@@ -2,7 +2,7 @@
 
 > Built in 3 hours | Production-ready MVP
 
-A full-stack revenue operations dashboard that identifies at-risk referral commissions, prioritizes collection efforts by agent/partner, and automates follow-up emails with Gmail integration.
+An end-to-end revenue operations dashboard that identifies at-risk referral commissions, prioritizes collection efforts by agent/partner, and automates follow-up emails with Gmail integration.
 
 **🎯 Problem Solved:** Revenue teams struggle to track hundreds of referral commissions, identify payment risks early, and follow up consistently. This dashboard makes it instant.
 
