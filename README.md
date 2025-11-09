@@ -1,4 +1,4 @@
-# HomeLight RevOps MVP — Referral‑to‑Revenue Scorecard & Collections Accelerator
+# Example RevOps MVP — Referral‑to‑Revenue Scorecard & Collections Accelerator
 
 > **Interview Project for HomeLight** | Built in 3 hours | Production-ready MVP
 
