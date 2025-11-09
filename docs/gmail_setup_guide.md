@@ -44,7 +44,7 @@ This installs the Google API libraries.
 3. Click **"Create"**
 
 Fill in:
-- **App name:** `HomeLight RevOps MVP`
+- **App name:** `RevOps MVP Dashboard`
 - **User support email:** Your email
 - **Developer contact:** Your email
 - Click **"Save and Continue"**
@@ -64,7 +64,7 @@ Fill in:
 1. Go to **"APIs & Services"** → **"Credentials"**
 2. Click **"+ Create Credentials"** → **"OAuth client ID"**
 3. Select **"Desktop app"** as application type
-4. Name it: `HomeLight Desktop Client`
+4. Name it: `RevOps Desktop Client`
 5. Click **"Create"**
 
 ### 3.5 Download Credentials
@@ -98,7 +98,7 @@ python scripts/gmail_helper.py
 **What happens:**
 1. A browser window opens
 2. Google asks you to sign in
-3. Google asks: "HomeLight RevOps MVP wants to manage your drafts"
+3. Google asks: "RevOps MVP Dashboard wants to manage your drafts"
 4. Click **"Allow"**
 5. You'll see: ✅ Successfully connected to Gmail: your@email.com
 

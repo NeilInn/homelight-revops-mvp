@@ -1,6 +1,6 @@
-# HomeLight RevOps MVP — Referral‑to‑Revenue Scorecard & Collections Accelerator
+# RevOps MVP — Referral‑to‑Revenue Scorecard & Collections Accelerator
 
-> **Interview Project for HomeLight** | Built in 3 hours | Production-ready MVP
+> Built in 3 hours | Production-ready MVP
 
 A full-stack revenue operations dashboard that identifies at-risk referral commissions, prioritizes collection efforts by agent/partner, and automates follow-up emails with Gmail integration.
 
@@ -103,10 +103,10 @@ data/               # Sample CSVs
 
 ---
 
-### Why this maps to the role
-- **Streamline referral‑to‑revenue** with a visible path to collection.
-- **AI‑first workflows** via templated, context‑aware outreach (easy to upgrade to GPT).
-- **Own scorecards**: single‑pane KPIs with drilldowns.
-- **Enhance collections**: surface leakage + aging, standardize follow‑ups.
-- **Cross‑functional ready**: Finance can reconcile; Ops can enforce SLAs.
+## Key Features
+- **Streamline referral‑to‑revenue** with a visible path to collection
+- **AI‑ready workflows** via templated, context‑aware outreach (easy to upgrade to GPT)
+- **Unified scorecards** with single‑pane KPIs and drilldowns
+- **Enhanced collections** with leakage detection, aging analysis, and standardized follow‑ups
+- **Cross‑functional ready**: Finance can reconcile; Ops can enforce SLAs
 

@@ -1,4 +1,4 @@
-# Demo Guide - HomeLight RevOps MVP
+# Demo Guide - RevOps MVP
 
 ## 🎯 What This Project Demonstrates
 
@@ -13,7 +13,7 @@ This project showcases my ability to:
 
 ## 💼 Business Context
 
-**Problem:** Revenue operations teams at companies like HomeLight struggle with:
+**Problem:** Revenue operations teams struggle with:
 - Tracking referral commissions across hundreds of deals
 - Identifying which agents/partners are behind on payments
 - Following up on overdue invoices consistently
@@ -119,16 +119,16 @@ This project showcases my ability to:
 
 ---
 
-## 💡 Why This Matters for HomeLight
+## 💡 Why This Matters
 
-**Aligns with role requirements:**
-- ✅ "Own referral-to-revenue workflow" → Built the system
-- ✅ "AI-first workflows" → Template automation, ready for LLM upgrade  
-- ✅ "Own scorecards" → Built KPI dashboard from scratch
-- ✅ "Enhance collections" → Agent risk summary + email automation
-- ✅ "Cross-functional ready" → Finance can use for reconciliation, Ops for SLAs
+**Key capabilities demonstrated:**
+- ✅ **Referral-to-revenue workflow** → Built end-to-end system
+- ✅ **AI-ready workflows** → Template automation, ready for LLM upgrade  
+- ✅ **Scorecard development** → Built KPI dashboard from scratch
+- ✅ **Collections enhancement** → Agent risk summary + email automation
+- ✅ **Cross-functional ready** → Finance can use for reconciliation, Ops for SLAs
 
-**Demonstrates my approach:**
+**Development approach:**
 1. **Business first**: Understood the pain point before writing code
 2. **Iterate fast**: Built this in 2-3 days, production-ready MVP
 3. **Think big, start small**: Designed for scale but shipped quick wins first
@@ -158,6 +158,5 @@ This project showcases my ability to:
 
 **Built by:** [Your Name]  
 **Time to build:** 2-3 days  
-**For:** HomeLight Interview Assignment  
 **Date:** November 2025
 

@@ -58,7 +58,7 @@ def test_connection():
 
 def main():
     print("="*60)
-    print("Gmail API Setup for HomeLight RevOps MVP")
+    print("Gmail API Setup for RevOps MVP")
     print("="*60)
     print()
     

@@ -130,7 +130,7 @@
 
 **What it does:** Sends emails via Microsoft's official API
 
-**Best for:** If HomeLight uses Office 365/Outlook
+**Best for:** If your organization uses Office 365/Outlook
 
 **Requirements:**
 1. **Azure AD App Registration**
