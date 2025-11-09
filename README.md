@@ -1,6 +1,6 @@
 # Example RevOps MVP — Referral‑to‑Revenue Scorecard & Collections Accelerator
 
-> **Interview Project for HomeLight** | Built in 3 hours | Production-ready MVP
+> Built in 3 hours | Production-ready MVP
 
 A full-stack revenue operations dashboard that identifies at-risk referral commissions, prioritizes collection efforts by agent/partner, and automates follow-up emails with Gmail integration.
 
