@@ -21,16 +21,12 @@ A full-stack revenue operations dashboard that identifies at-risk referral commi
 > This MVP is intentionally lightweight so it can be demoed in a 2‑minute video.
 
 ## Quickstart
+
+### Mac/Linux
 ```bash
-# 1) Create & activate a virtual env (any flavor is fine)
+# 1) Create & activate a virtual env
 python3 -m venv .venv
-
-# For Mac/Linux:
 source .venv/bin/activate
-
-# For Windows PowerShell:
-.venv\Scripts\Activate.ps1
-# (or if that fails: .venv\Scripts\activate)
 
 # 2) Install deps
 pip install -r requirements.txt
@@ -38,6 +34,21 @@ pip install -r requirements.txt
 # 3) Run the dashboard
 streamlit run app/streamlit_app.py
 ```
+
+### Windows PowerShell
+```powershell
+# 1) Create & activate a virtual env
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+
+# 2) Install deps
+pip install -r requirements.txt
+
+# 3) Run the dashboard
+streamlit run app/streamlit_app.py
+```
+
+> **Note:** If you get an execution policy error on Windows, use `.\.venv\Scripts\activate.bat` instead.
 
 ## (Optional) Enable Gmail Draft Creation
 
