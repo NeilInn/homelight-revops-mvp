@@ -1,6 +1,6 @@
 # HomeLight RevOps MVP — Referral‑to‑Revenue Scorecard & Collections Accelerator
 
-> **Interview Project for HomeLight** | Built in 2-3 days | Production-ready MVP
+> **Interview Project for HomeLight** | Built in 3 hours | Production-ready MVP
 
 A full-stack revenue operations dashboard that identifies at-risk referral commissions, prioritizes collection efforts by agent/partner, and automates follow-up emails with Gmail integration.
 
@@ -82,12 +82,6 @@ The pipeline derives:
 2. **Click a row** → show account timeline and recommended next action.
 3. **Open `email_templates.md`** → copy the template that matches the scenario.
 4. (Optional) Run `scripts/draft_emails.py` to create Gmail drafts from a CSV of contacts.
-
-## Extend after the interview
-- Swap Streamlit for **Retool** and wire to your actual DB.
-- Replace rule‑based risk with an **LLM classifier** (prompt seeded by aging, terms, and history).
-- Add **Zapier** (invoice sent → wait 7d → no payment? → Slack + email draft).
-- Export scorecard as a **weekly PDF** and auto‑post to Slack.
 
 ## Folder layout
 ```
